@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ryan Li
+- 👋 Hi, I’m Ryan 
 - 👀 Interested in > Product, Tech, Business Strategy, Data Analytics
 - 🌱 Currently learning > SQL, Python, IoT
 - 📫 Reach me at > ryan.li@live.ca | https://www.linkedin.com/in/ryan-li-34104a1ba/
